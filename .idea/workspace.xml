@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32282daa-91bb-4b39-85c2-e949f98f49e8" name="Default Changelist" comment="">
+    <list default="true" id="32282daa-91bb-4b39-85c2-e949f98f49e8" name="Default Changelist" comment="AndroidCaculator">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="memory.settings.postsync.last.time.stamp" value="1606045810778" />
@@ -110,7 +112,19 @@
       <option name="presentableId" value="Default" />
       <updated>1605778536894</updated>
     </task>
+    <task id="LOCAL-00001" summary="AndroidCaculator">
+      <created>1606053031007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606053031009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AndroidCaculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="AndroidCaculator" />
   </component>
   <component name="WindowStateProjectService">
     <state x="59" y="119" width="1071" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605779943989">
@@ -118,6 +132,15 @@
     </state>
     <state x="59" y="119" width="1071" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.807@0.23.1440.807" timestamp="1605779943989" />
     <state x="164" y="128" width="1071" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1605778841370" />
+    <state x="333" y="33" key="CommitChangelistDialog2" timestamp="1606053165232">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="333" y="33" key="CommitChangelistDialog2/0.23.1440.805@0.23.1440.805" timestamp="1606053030506" />
+    <state x="333" y="33" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1606053165232" />
+    <state x="476" y="169" key="RollbackChangesDialog" timestamp="1606053139904">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="476" y="169" key="RollbackChangesDialog/0.23.1440.810@0.23.1440.810" timestamp="1606053139904" />
     <state x="159" y="113" key="SettingsEditor" timestamp="1605778850438">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
